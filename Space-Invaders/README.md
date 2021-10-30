@@ -1,3 +1,19 @@
 # Space-Invaders
 
-This is just a game using Python, which we can call PyGame to be more specific.
+
+Space-Invaders game using Pygame.
+
+
+# Environment
+```
+OS: Windows10
+Python: Python3.10+(have installed necessary dependencies)
+```
+
+# Usage
+```
+Step1:
+pip install -r requirements.txt
+Step2:
+run "python Space-Invaders.py"
+```
