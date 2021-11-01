@@ -27,7 +27,7 @@ This repository is a collection of games that'll be done using Pygame & Ursina.
 	<tr>
 	    <td><a href=""><b>MineCraft</b></a></td>
       <td><a href=""/><b>Raunak Sarkar</b></a></td>
-      <td><img alt="Ursina" alt="Ursina" src="https://img.shields.io/badge/Ursina%20-%2343853D.svg?logo=python&logoColor=white"></a></td>
+      <td><img alt="Ursina" alt="Ursina" src="https://img.shields.io/badge/Ursina%20-blue.svg?logo=python&logoColor=white"></a></td>
   </tr>
  
  
