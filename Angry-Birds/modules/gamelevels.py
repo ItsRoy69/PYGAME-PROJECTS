@@ -10,7 +10,7 @@ class GameLevels():
         self.screen = screen
         self.screen_size = (self.cfg.SCREENSIZE[0], self.cfg.SCREENSIZE[1] - 50)
         self.score = 0
-        self.num_levels = 15
+        self.num_levels = 10
         self.level_pointer = 1
     '''Game status'''
     def status(self, pigs, birds):
@@ -583,104 +583,7 @@ class GameLevels():
             walls.append(
                 Slab(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['wall'], x=900, y=400, width=500, height=30)
             )
-        elif self.level_pointer == 11:
-            pigs.append(
-                Pig(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['pig'], loc_info=(1100, self.screen_size[1] - 60, 25))
-            )
-            pigs.append(
-                Pig(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['pig'], loc_info=(1450, self.screen_size[1] - 60, 25))
-            )
-            blocks.append(
-                Block(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['block'], loc_info=(1250, self.screen_size[1] - 100, 100))
-            )
-            blocks.append(
-                Block(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['block'], loc_info=(1250, self.screen_size[1] - 120, 100))
-            )
-            walls.append(
-                Slab(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['wall'], x=900, y=400, width=500, height=30)
-            )
-            walls.append(
-                Slab(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['wall'], x=900, y=400, width=30, height=self.screen_size[1]-400)
-            )
-        elif self.level_pointer == 12:
-            pigs.append(
-                Pig(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['pig'], loc_info=(1100, self.screen_size[1] - 60, 25))
-            )
-            pigs.append(
-                Pig(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['pig'], loc_info=(1450, self.screen_size[1] - 60, 25))
-            )
-            walls.append(
-                Slab(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['wall'], x=900, y=400, width=500, height=30)
-            )
-            walls.append(
-                Slab(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['wall'], x=1200, y=500, width=30, height=self.screen_size[1]-500)
-            )
-        elif self.level_pointer == 13:
-            pigs.append(
-                Pig(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['pig'], loc_info=(1100, self.screen_size[1] - 60, 25))
-            )
-            pigs.append(
-                Pig(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['pig'], loc_info=(1200, 340, 25))
-            )
-            pigs.append(
-                Pig(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['pig'], loc_info=(1450, self.screen_size[1] - 60, 25))
-            )
-            blocks.append(
-                Block(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['block'], loc_info=(900, self.screen_size[1] - 100, 100))
-            )
-            blocks.append(
-                Block(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['block'], loc_info=(900, self.screen_size[1] - 120, 100))
-            )
-            walls.append(
-                Slab(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['wall'], x=900, y=400, width=500, height=40)
-            )
-            walls.append(
-                Slab(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['wall'], x=1200, y=500, width=30, height=self.screen_size[1]-500)
-            )
-        elif self.level_pointer == 14:
-            pigs.append(
-                Pig(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['pig'], loc_info=(1100, self.screen_size[1] - 60, 25))
-            )
-            pigs.append(
-                Pig(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['pig'], loc_info=(1100, 340, 25))
-            )
-            pigs.append(
-                Pig(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['pig'], loc_info=(1450, self.screen_size[1] - 60, 25))
-            )
-            blocks.append(
-                Block(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['block'], loc_info=(900, self.screen_size[1] - 100, 100))
-            )
-            blocks.append(
-                Block(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['block'], loc_info=(1300, 300, 100))
-            )
-            walls.append(
-                Slab(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['wall'], x=900, y=400, width=500, height=40)
-            )
-            walls.append(
-                Slab(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['wall'], x=900, y=0, width=30, height=400)
-            )
-        elif self.level_pointer == 15:
-            pigs.append(
-                Pig(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['pig'], loc_info=(900, self.screen_size[1] - 60, 25))
-            )
-            pigs.append(
-                Pig(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['pig'], loc_info=(self.screen_size[0] - 400, 340, 25))
-            )
-            pigs.append(
-                Pig(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['pig'], loc_info=(1700, self.screen_size[1] - 60, 25))
-            )
-            walls.append(
-                Slab(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['wall'], x=800, y=400, width=30, height=self.screen_size[1]-400)
-            )
-            walls.append(
-                Slab(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['wall'], x=1000, y=500, width=30, height=self.screen_size[1]-500)
-            )
-            walls.append(
-                Slab(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['wall'], x=self.screen_size[0]-500, y=400, width=500, height=40)
-            )
-            walls.append(
-                Slab(screen=self.screen, imagepaths=self.cfg.IMAGEPATHS['wall'], x=self.screen_size[0]-500, y=150, width=60, height=250)
-            )
+        
         game_sprites = {
             'birds': birds,
             'pigs': pigs,
