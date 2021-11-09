@@ -29,7 +29,7 @@ class Pig(pygame.sprite.Sprite):
         # Import the image
         self.pig_images = []
         for imagepath in imagepaths: self.pig_images.append(pygame.image.load(imagepath))
-        # 设置当前图像
+        # Set current image
         self.image = random.choice(self.pig_images[:2])
     '''Draw to the screen'''
     def draw(self):
