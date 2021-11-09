@@ -20,4 +20,4 @@ run "python Angry-Birds.py"
 
 # Video
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/ItsRoy69/PYGAME-PROJECTS/blob/main/Angry-Birds/Video/ANGRY%20BIRDS.mp4)
