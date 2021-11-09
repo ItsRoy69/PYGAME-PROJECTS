@@ -48,8 +48,8 @@ This repository is a collection of games that'll be done using Pygame & Ursina.
 ## Our Team ♥
 
 ![jyotirmoy-modified](https://user-images.githubusercontent.com/72851613/139521878-4fd74fae-1679-4a02-91e0-f8614a26b9bd.png)
-![anjushree-modified](https://user-images.githubusercontent.com/78967360/140937561-742dc366-2fb5-480e-a89d-8ee68b38168d.png)
-![raunak-modified]()
+![anjushree-modified](https://user-images.githubusercontent.com/78967360/140939220-0d025b33-bfeb-4a3c-8e7f-18e7fc32fb95.png)
+![raunak-modified](https://user-images.githubusercontent.com/78967360/140938948-dec0b76c-95ad-4dfc-8310-2612d23c1b8a.png)
 ![debadyuti-modified](https://user-images.githubusercontent.com/72851613/139521879-ab7b12c6-57b8-4499-a31f-308ae54dcd77.png)
 ![aritra-modified]() 
 ![anshu-modified]()
