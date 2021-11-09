@@ -28,7 +28,7 @@ This repository is a collection of games that'll be done using Pygame & Ursina.
   </tr>
   <tr>
       <td><a href=""><b>Tic-Tac-Toe</b></a></td>
-      <td><a href=""/><b>Anshu Sarkar</b></a></td>
+      <td><a href="https://github.com/AnshuSarkarANX"/><b>Anshu Sarkar</b></a></td>
       <td><img alt="Tic-Tac-Toe" src="https://img.shields.io/badge/PyGame%20-%2314354C.svg?logo=python&logoColor=white"></a></td>
       <td><a href="https://github.com/ItsRoy69/PYGAME-PROJECTS/blob/main/"/><b>Video</b></a></td>
   </tr>
