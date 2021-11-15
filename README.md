@@ -45,8 +45,8 @@ This repository is a collection of games that'll be done using Pygame & Ursina.
       <td><a href="https://github.com/ItsRoy69/PYGAME-PROJECTS/blob/main/"/><b>Video</b></a></td>
   </tr>
   <tr>
-      <td><a href=""><b>MineCraft</b></a></td>
-      <td><a href=""/><b>Raunak Sarkar</b></a></td>
+      <td><a href="https://github.com/ItsRoy69/PYGAME-PROJECTS/tree/main/Minecraft"><b>MineCraft</b></a></td>
+      <td><a href="https://github.com/Raunak34"/><b>Raunak Sarkar</b></a></td>
       <td><img alt="Ursina" alt="Ursina" src="https://img.shields.io/badge/Ursina%20-blue.svg?logo=python&logoColor=white"></a></td>
       <td><a href="https://github.com/ItsRoy69/PYGAME-PROJECTS/blob/main/"/><b>Video</b></a></td>
   </tr>
