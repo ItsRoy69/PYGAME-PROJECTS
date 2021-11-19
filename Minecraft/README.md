@@ -29,4 +29,4 @@ Key 4: Wood Texture
 Key q: Quit
 ```
 # Video
-![Minecraft](https://user-images.githubusercontent.com/78967360/142642201-8b36efa8-908b-4ac3-9693-c7b07fc8b8c3.jpg).(https://github.com/ItsRoy69/PYGAME-PROJECTS/tree/main/Minecraft/Video)
+[![Minecraft](https://user-images.githubusercontent.com/78967360/142642201-8b36efa8-908b-4ac3-9693-c7b07fc8b8c3.jpg)](https://github.com/ItsRoy69/PYGAME-PROJECTS/blob/main/Minecraft/Video/Minecraft.mp4)
