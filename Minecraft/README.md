@@ -20,3 +20,11 @@ pip install ursina
 Step2:
 run "python Minecraft.py"
 ```
+# Controls
+```
+Key 1: grass texture
+Key 2: soil texture
+Key 3: stone texture
+Key 4: wood texture
+Key q: Quit
+```
