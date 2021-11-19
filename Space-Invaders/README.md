@@ -24,3 +24,4 @@ Right Arrow Key - Right Movement
 Left Arrow Key - Left Movement
 ```
 # Video
+[![2021-11-19](https://user-images.githubusercontent.com/78967360/142648237-a5e6da25-d75d-4aa3-bae7-16e1b3643c1d.png)](https://github.com/ItsRoy69/PYGAME-PROJECTS/blob/main/Space-Invaders/Video/Space%20Invaders.mp4)
