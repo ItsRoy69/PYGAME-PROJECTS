@@ -28,3 +28,5 @@ Key 3: Stone Texture
 Key 4: Wood Texture
 Key q: Quit
 ```
+# Controls
+![Minecraft_cover](https://user-images.githubusercontent.com/78967360/142641976-d0648c1a-a110-4cd7-92e8-64a3b2883eed.png)
