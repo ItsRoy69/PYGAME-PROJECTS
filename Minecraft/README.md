@@ -22,9 +22,9 @@ run "python Minecraft.py"
 ```
 # Controls
 ```
-Key 1: grass texture
-Key 2: soil texture
-Key 3: stone texture
-Key 4: wood texture
+Key 1: Grass Texture
+Key 2: Soil Texture
+Key 3: Stone Texture
+Key 4: Wood Texture
 Key q: Quit
 ```
