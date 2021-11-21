@@ -1,19 +1,29 @@
-# Introduction
-https://mp.weixin.qq.com/s/44CZjwvjnH0kkkKIn5U9Uw
+# 
+Flappy-Bird
+
+Flappy-Bird game using Pygame.
+
 
 # Environment
 ```
 OS: Windows10
-Python: Python3.5+(have installed necessary dependencies)
+Python: Python3.10+(have installed necessary dependencies)
 ```
 
 # Usage
 ```
 Step1:
-pip install -r requirements.txt
+pip install pygame
 Step2:
-run "python Game6.py"
+run "python Flappy-Bird.py"
 ```
 
-# Game Display
-![giphy](demonstration/running.gif)
+# Controls
+```
+Tab Key - To control flying
+
+```
+
+# Video
+
+[![Flappy-Bird](https://user-images.githubusercontent.com/78967360/142751951-e194576d-4acf-40d4-93b0-ff9ff7544224.png)](https://github.com/ItsRoy69/PYGAME-PROJECTS/blob/main/Flappy-Bird/Video/Flappy-Bird.mp4)
