@@ -1,5 +1,4 @@
-# 
-Flappy-Bird
+# Flappy-Bird
 
 Flappy-Bird game using Pygame.
 
