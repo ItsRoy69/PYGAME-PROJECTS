@@ -63,9 +63,9 @@ This repository is a collection of games that'll be done using Pygame & Ursina.
 
 ## Website 
 
-Website Link : https://debadyutipaul.github.io/Gamer-s-Paradise/
+Website Link : https://itsroy69.github.io/Pygame-Website/
 <br>
-Website made by <a href="https://github.com/DebadyutiPaul"/><b>Debadyuti Paul</b></a>
+Website made by <a href="https://github.com/DebadyutiPaul"/><b>Debadyuti Paul</b></a> & <a href="https://github.com/ItsRoy69"/><b>Jyotirmoy Roy</b></a>
 
 
 ## Our Team ♥
