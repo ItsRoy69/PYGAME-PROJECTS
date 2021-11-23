@@ -25,4 +25,4 @@ Tab Key - To control flying
 
 # Video
 
-![Flappy-Bird](https://user-images.githubusercontent.com/78967360/143072393-fa99041e-cd5d-435d-a30e-00a14231c002.png)
+[![Flappy-Bird](https://user-images.githubusercontent.com/78967360/143072393-fa99041e-cd5d-435d-a30e-00a14231c002.png)](https://github.com/ItsRoy69/PYGAME-PROJECTS/blob/main/Flappy-Bird/Video/Flappy%20Bird.mp4)
