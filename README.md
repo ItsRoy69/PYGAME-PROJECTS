@@ -27,6 +27,12 @@ This repository is a collection of games that'll be done using Pygame & Ursina.
       <td><a href="https://github.com/ItsRoy69/PYGAME-PROJECTS/blob/main/Space-Invaders/Video/Space%20Invaders.mp4"/><b>Video</b></a></td>
   </tr>
   <tr>
+      <td><a href="https://github.com/ItsRoy69/PYGAME-PROJECTS/tree/main/Space-Invaders"><b>Ghost Buster</b></a></td>
+      <td><a href="https://github.com/ItsRoy69"/><b>Jyotirmoy Roy</b></a></td>
+      <td><img alt="PyGame" src="https://img.shields.io/badge/PyGame%20-%2314354C.svg?logo=python&logoColor=white"></a></td>
+      <td><a href="https://github.com/ItsRoy69/PYGAME-PROJECTS/blob/main/Space-Invaders/Video/Space%20Invaders.mp4"/><b>Video</b></a></td>
+  </tr> 
+  <tr>
       <td><a href="https://github.com/ItsRoy69/PYGAME-PROJECTS/tree/main/Tic-Tac-Toe"><b>Tic-Tac-Toe</b></a></td>
       <td><a href="https://github.com/AnshuSarkarANX"/><b>Anshu Sarkar</b></a></td>
       <td><img alt="Tic-Tac-Toe" src="https://img.shields.io/badge/PyGame%20-%2314354C.svg?logo=python&logoColor=white"></a></td>
