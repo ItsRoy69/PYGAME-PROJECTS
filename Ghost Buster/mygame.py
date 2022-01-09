@@ -3,30 +3,12 @@ import random
 from pygame.locals import *
 pygame.init()
 w=1000
-h=500
+h=600
 red=(255,0,0)
 col=(255,0,255)
 col1=(255,255,0)
 sec=8
 pygame.time.set_timer(USEREVENT+1,1000)
-
-
-# Time
-def time(sec):
-    font = pygame.font.SysFont(None,40)
-    text=font.render('Time Left : '+str(sec),True,col)
-    screen.blit(text,(w-200,0))
-
-
-# Game Over
-def over():
-    while True:
-        font = pygame.font.SysFont(None,40)
-        text=font.render('GAME OVER !! ',True,col1)
-        screen.blit(text,(w/2-40 ,h/2-40))
-        pygame.display.update()
-        quit()
-    
 
 # Images and Sounds of Background and Gun
 screen = pygame.display.set_mode((w,h))
@@ -37,6 +19,15 @@ gsound=pygame.mixer.Sound("assets/sounds/shot_sound.wav")
 bsound=pygame.mixer.Sound("assets/sounds/background.wav")
 bsound.play()
 
+
+# Time
+def time(sec):
+    font = pygame.font.SysFont(None,40)
+    text=font.render('Time Left : '+str(sec),True,col)
+    screen.blit(text,(w-200,0))
+
+
+
 # Score Count
 def score(counter):
     font = pygame.font.SysFont(None,40)
@@ -44,7 +35,7 @@ def score(counter):
     screen.blit(text,(8,0))
 
 
-# Images of Ghosts
+# Images of Ghosts 
 def game():
     sec=20
     w=800
@@ -58,6 +49,7 @@ def game():
     zx = random.randint(0,w - 200)
     zy = random.randint(0,h - 300)
     counter = 0
+        
 
     # Game Loop
     while True:
@@ -69,12 +61,9 @@ def game():
             print(event)
             if event.type==pygame.QUIT:
                 pygame.quit()
-                quit()
-
-        
+                quit()        
             elif event.type==USEREVENT+1:
-                sec-=1
-            
+                sec-=1            
             if event.type == pygame.MOUSEBUTTONDOWN:
                 gsound.play()
                 if zrec.colliderect(point):
@@ -85,9 +74,7 @@ def game():
                     counter+=1
         if sec==0:
             over()
-            break
-
-        
+            break        
         screen.blit(pic,(0,0))
         screen.blit(zimg,(zx,zy))
         screen.blit(tar,(mx-48,my-48))
@@ -95,6 +82,16 @@ def game():
         time(sec)
         screen.blit(gun,(mx,h - 250))
         pygame.display.update()
+
+    
+# Game Over
+def over():
+    while True:
+        font = pygame.font.SysFont(None,40)
+        text=font.render('GAME OVER !! ',True,col1)
+        screen.blit(text,(w/2-40 ,h/2-40))
+        pygame.display.update()
+        quit()
 
 
 game()
