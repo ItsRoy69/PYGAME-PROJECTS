@@ -25,4 +25,4 @@ Mouse keys
 
 # Video
 
-[![2021-11-09](https://user-images.githubusercontent.com/78967360/140916611-dfcd587d-69d2-4e63-b0ca-e9b2c2e97b08.png)](https://github.com/ItsRoy69/PYGAME-PROJECTS/blob/main/Angry-Birds/Video/ANGRY%20BIRDS.mp4)
+[![2021-11-09](https://user-images.githubusercontent.com/78967360/148682681-407b78fc-ec82-4b06-8a5d-757113da087c.jpeg)](https://github.com/ItsRoy69/PYGAME-PROJECTS/blob/main/Ghost%20Buster/Video/GhostBuster.mp4)
