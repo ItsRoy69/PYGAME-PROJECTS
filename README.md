@@ -77,10 +77,5 @@ Website made by <a href="https://github.com/DebadyutiPaul"/><b>Debadyuti Paul</b
 ## Our Team ♥
 
 ![jyotirmoy-modified](https://user-images.githubusercontent.com/72851613/139521878-4fd74fae-1679-4a02-91e0-f8614a26b9bd.png)
-![anshu-sarkar](https://user-images.githubusercontent.com/78967360/142904803-b90e3f47-eb0b-40f3-a094-2777ad47c9cd.png)
-![raunak-modified](https://user-images.githubusercontent.com/78967360/140938948-dec0b76c-95ad-4dfc-8310-2612d23c1b8a.png)
-![debadyuti-modified](https://user-images.githubusercontent.com/72851613/139521879-ab7b12c6-57b8-4499-a31f-308ae54dcd77.png)
-![aritra-modified](https://user-images.githubusercontent.com/78967360/142753016-35c9d607-f832-4853-8cfb-0bbb12410848.png)
-![srija-modified (1)](https://user-images.githubusercontent.com/78967360/140262879-6caf566f-1202-49c5-b05f-d20abb5775c6.png)
-![anjushree-modified](https://user-images.githubusercontent.com/78967360/140939220-0d025b33-bfeb-4a3c-8e7f-18e7fc32fb95.png)
+
 
